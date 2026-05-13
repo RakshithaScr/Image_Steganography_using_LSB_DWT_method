@@ -102,7 +102,3 @@ Output:
 This project hides data inside images in a way that is not visible to the human eye. It is useful for secure communication and basic data hiding techniques.
 
 ---
-
-## Author
-
-Your Name
