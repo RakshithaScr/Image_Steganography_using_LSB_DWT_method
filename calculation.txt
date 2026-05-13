@@ -1,0 +1,5 @@
+----- MSE & PSNR Calculation -----
+Image Dimensions: (427, 640, 3)
+MSE  = 426.203859
+PSNR = 21.83 dB
+--------------------------------
